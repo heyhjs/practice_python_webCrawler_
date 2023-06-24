@@ -1,5 +1,5 @@
-from requests import get
 from bs4 import BeautifulSoup
+from requests import get
 
 
 def extract_wwr_jobs(keyword):
